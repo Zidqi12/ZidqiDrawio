@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-01-13T14:48:40.433Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0" etag="HzbRY57nlfzp5bEtKssr" version="22.1.17" type="device">
+<mxfile host="app.diagrams.net" modified="2024-01-13T14:53:33.522Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0" etag="AQlkijw8PdI_CaT3Pynv" version="22.1.18" type="github">
   <diagram name="Page-1" id="zoXiL-7EKQh0-D_hMCXI">
-    <mxGraphModel dx="982" dy="465" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1963" dy="929" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -117,10 +117,10 @@
         <mxCell id="r4oWDvyiEpZnMvECn_-E-57" value="STORY" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="r4oWDvyiEpZnMvECn_-E-54" vertex="1">
           <mxGeometry y="90" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="r4oWDvyiEpZnMvECn_-E-61" value="&lt;h1&gt;Informasi Penting&lt;br&gt;&lt;/h1&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+        <mxCell id="r4oWDvyiEpZnMvECn_-E-61" value="&lt;h1&gt;Informasi Penting&lt;br&gt;&lt;/h1&gt;&lt;p&gt;Lorem ipsum dolor sit amet, cssadsfonsectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="420" y="580" width="370" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="sorAtPHi3gpaqwYhqTY1-2" value="merevisi" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="sorAtPHi3gpaqwYhqTY1-2" value="merevisi" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="270" y="170" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
